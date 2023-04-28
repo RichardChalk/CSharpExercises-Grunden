@@ -1,0 +1,34 @@
+﻿Då det är möjligt låt användaren välja tal eller sträng!
+
+1. Skriv en konsolapplikation som adderar två heltal och skriver ut resultatet.
+2. Adderar 3 heltal och dubblar resultatet innan det skrivs ut.
+3. Frågar efter användarens namn och sedan använder namnet 
+   för att skriva ut ”Hej Johan” då man anger Johan som användarens namn.
+4. Beräknar arean av en triangel med mått som användaren matat in.
+   area = 0.5 * b * h
+   Where b is the length of the base of the triangle, and h is the height
+5. Tar TRE nummer från användare, 
+   multiplicerar dessa och sedan skriver hela formeln. Ex ”1 x 2 x 3 = 6”
+6. Beräknar medeltalet för 4 tal användaren matar in.
+7. Tar 3 tal från användaren och sedan visar resultatet av beräkningen
+   (tal1 + tal2) * tal3, 
+   samt även resultatet av beräkningen tal1*tal3 + tal2*tal3.
+8. Ber användaren om tre bokstäver (en i taget) 
+   och sedan skriver ut dessa i omvänd ordning från hur användaren matade in dessa.
+9. Ber användaren mata in två tal som sparas ner i varsin variabel 
+   och sedan skriver ut båda talen i konsolfönstret. 
+   Sedan ska variablerna byta värde med varandra och sedan skriva ut sina tal till konsolfönstret igen.
+10. Ber användaren mata in ett tal som sedan ska få sin multiplikationstabell 
+    från 0 till 10 utskriven i konsolfönstret.
+11. Ber användaren mata in två tal som sedan kommer att 
+    adderas, subtraheras, multipliceras, divideras, restprodukt uträknad, och presenteras i konsolfönstret.
+12. Ber användaren mata in en valfri sträng som sedan 
+    skriver ut strängen tre gånger efter varandra på två olika rader. 
+    Den ena gången utan mellanslag mellan strängarna, 
+    den andra helt utan mellanslag mellan.
+    a.Skriv en lösning där du använder Console.WriteLine().
+    b.Skriv en lösning där du använder $().
+13. Ber användaren mata in ett tal som representerar grader i celsius 
+    och sedan konverterar värdet till både Fahrenheit och Kevlin. 
+    Presentera resultatet i konsolfönstret.
+14. Med hjälp av Math - bibliotektet; skriv ut PI i konsolfönstret (4 decimaler).
