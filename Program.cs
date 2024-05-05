@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Have a nice day!
+using System;
 
 
 namespace Övningsuppgifter_1___Grunden
