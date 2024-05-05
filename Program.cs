@@ -1,7 +1,6 @@
 ﻿// Have a nice day!
 using System;
 
-
 namespace Övningsuppgifter_1___Grunden
 {
     class Program
