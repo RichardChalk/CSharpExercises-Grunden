@@ -1,5 +1,4 @@
 ﻿using System;
-//Test
 
 namespace Övningsuppgifter_1___Grunden
 {
